@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MuscleMap/static/css/main.2578b8ca.css",
+    "main.js": "/MuscleMap/static/js/main.70bbcf61.js",
+    "static/media/introduction.jpg": "/MuscleMap/static/media/introduction.2c13f89284d5df9a2daf.jpg",
+    "static/media/slick.svg": "/MuscleMap/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MuscleMap/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MuscleMap/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MuscleMap/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MuscleMap/index.html",
+    "main.2578b8ca.css.map": "/MuscleMap/static/css/main.2578b8ca.css.map",
+    "main.70bbcf61.js.map": "/MuscleMap/static/js/main.70bbcf61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2578b8ca.css",
+    "static/js/main.70bbcf61.js"
+  ]
+}
