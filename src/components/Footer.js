@@ -1,6 +1,7 @@
 import React from "react";
 
 function Footer() {
+  const currentYear = new Date().getFullYear();
   return (
     <div
       style={{
@@ -10,7 +11,7 @@ function Footer() {
         textAlign: "center",
       }}
     >
-      <p>© 2023 MuscleMap Created By Yosuke Kono</p>
+      <p>© {currentYear} MuscleMap Created By Yosuke Kono</p>
     </div>
   );
 }
