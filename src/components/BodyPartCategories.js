@@ -20,7 +20,9 @@ const Container = styled.div`
 `;
 
 const CategoryButton = styled.button`
-  padding: 15px 20px;
+  width: 130px;
+  height: 80px;
+  padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
   cursor: pointer;
@@ -29,11 +31,13 @@ const CategoryButton = styled.button`
   align-items: center;
   justify-content: center;
   font-size: 1rem;
+  flex-direction: column;
 
   img {
     width: 40px;
     height: 40px;
-    margin-right: 10px;
+    margin-right: 5px;
+    flex-shrink: 0;
   }
 `;
 
