@@ -70,8 +70,6 @@ function Exercises() {
         );
         setExercises(filteredExercises);
         setError("");
-        console.log(data);
-        console.log(filteredExercises);
       } catch (err) {
         setError("Failed to filter exercises.");
       }
